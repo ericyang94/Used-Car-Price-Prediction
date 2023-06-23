@@ -1,4 +1,4 @@
-# Data Science Job Market Analysis
+# Used Car Price Analysis and Prediction
 
 ## Summary
 
@@ -25,5 +25,5 @@ Prediction
 
 ## Resources
 
-Craigslist Used Car Listing Data:
+Craigslist Used Car Listing Dataset:
 https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
